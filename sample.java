@@ -1,7 +1,6 @@
-import java.util.*;
-class sample{
+public class sample {
+    public static void main(String[] args) {
+        System.out.println("Hello world");
+    }
+}
 
-public static void main(String[] args){
-System.out.println("Hello world");
-}
-}
